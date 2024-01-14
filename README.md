@@ -1,9 +1,8 @@
 <h3 align="left">Hi There👋, I'm Md. Walid Bin Jashim</h3>
 <h6 align="left">I am passionate towards programming and love to build something interesting constantly, I specialise in web development. My current technologies for web development are ReactJS, ExpressJS and JavaScript. I am currently working with Core Devs Ltd as a junior developer.</h6>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samian016&show_icons=true&locale=en&layout=compact" alt="samian016" /></p>
-<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samian016&label=Profile%20views&color=0e75b6&style=flat" alt="samian016" /> </p>
+<p align="left" displY="block"> <img src="https://komarev.com/ghpvc/?username=samian016&label=Profile%20views&color=0e75b6&style=flat" alt="samian016" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samian016" alt="samian016" /></a> </p>
 
