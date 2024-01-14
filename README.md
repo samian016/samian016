@@ -3,10 +3,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samian016&show_icons=true&locale=en&layout=compact" alt="samian016" /></p>
 
 
-<p align="left"> 
-</p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samian016" alt="samian016" /></a>
 <p align="left" displY="block"> <img src="https://komarev.com/ghpvc/?username=samian016&label=Profile%20views&color=0e75b6&style=flat" alt="samian016" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
