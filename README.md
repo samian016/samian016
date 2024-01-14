@@ -1,5 +1,6 @@
-<h1 align="center">Hi There👋, I'm Md. Walid Bin Jashim</h1>
-<h3 align="center">I am passionate towards programming and love to build something interesting constantly, I specialise in web development. My current technologies for web development are ReactJS, ExpressJS and JavaScript. I am currently working with Core Devs Ltd as a junior developer.</h3>
+<h1 align="left">Hi There👋, I'm Md. Walid Bin Jashim</h1>
+<h6 align="left">I am passionate towards programming and love to build something interesting constantly, I specialise in web development. My current technologies for web development are ReactJS, ExpressJS and JavaScript. I am currently working with Core Devs Ltd as a junior developer.</h6>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samian016&show_icons=true&locale=en&layout=compact" alt="samian016" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samian016&label=Profile%20views&color=0e75b6&style=flat" alt="samian016" /> </p>
 
@@ -14,4 +15,3 @@
 <a href="https://instagram.com/sami_an_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami_an_" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samian016&show_icons=true&locale=en&layout=compact" alt="samian016" /></p>
