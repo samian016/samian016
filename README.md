@@ -4,7 +4,7 @@
 
 
 
-<p align="left" display="block"> <img src="https://komarev.com/ghpvc/?username=samian016&label=Profile%20views&color=0e75b6&style=flat" alt="samian016" /> </p>
+<p align="left" display="block" height="21px"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samian46364503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samian46364503" height="30" width="40" /></a>
